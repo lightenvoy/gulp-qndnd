@@ -1,0 +1,24 @@
+{
+  "name": "gulp-qndnd",
+  "version": "1.0.0",
+  "description": "Qiniu DN gulp tasks (DELETE).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specifie\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightenvoy/gulp-qndnd.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "qiniu",
+    "CDN"
+  ],
+  "author": "jimmieliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightenvoy/gulp-qndnd/issues"
+  },
+  "homepage": "https://github.com/lightenvoy/gulp-qndnd#readme"
+}
